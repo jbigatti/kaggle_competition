@@ -1,0 +1,8 @@
+docopt==0.6.2
+ipdb==0.10.1
+ipython==5.0.0
+jupyter==1.0.0
+numpy==1.11.1
+scikit-learn==0.17.1
+scipy==0.18.0
+xgboost==0.6a2
