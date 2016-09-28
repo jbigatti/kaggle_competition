@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# For kaggle_competition
+Submitions/
+talkingdata/
+*.tar.gz
+*.pkl
+
